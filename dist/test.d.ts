@@ -1,0 +1,10 @@
+declare let width: number;
+declare let height: number;
+declare let x: String;
+declare let area: number;
+declare let numbers: Array<number>;
+declare let number1: number;
+declare let number2: number;
+declare let promise: Promise<unknown>;
+declare let sum: number;
+declare function fibonacci(num: number): number;
